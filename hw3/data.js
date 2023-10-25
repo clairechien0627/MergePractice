@@ -1,0 +1,55 @@
+let men_women_BMI = [
+    {
+        "name":"BMI<18.5",
+        "count":4.8
+    },
+    {
+        "name":"18.5<=BMI<24",
+        "count":47.2
+    },
+    {
+        "name":"24<=BMI<27",
+        "count":25.4
+    },
+    {
+        "name":"BMI>=27",
+        "count":22.5
+    }
+];
+
+let men_BMI = [
+    {
+        "name":"BMI<18.5",
+        "count":3.3
+    },
+    {
+        "name":"18.5<=BMI<24",
+        "count":40.1
+    },
+    {
+        "name":"24<=BMI<27",
+        "count":29.7
+    },
+    {
+        "name":"BMI>=27",
+        "count":26.9
+    }
+];
+let women_BMI = [
+    {
+        "name":"BMI<18.5",
+        "count":6.2
+    },
+    {
+        "name":"18.5<=BMI<24",
+        "count":54.1
+    },
+    {
+        "name":"24<=BMI<27",
+        "count":21.4
+    },
+    {
+        "name":"BMI>=27",
+        "count":18.3
+    }
+];
