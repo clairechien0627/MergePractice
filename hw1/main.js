@@ -85,7 +85,7 @@ let layout1 = {
     yaxis:{
         range:[0,300000]
     },
-    title:"101-110學年度高中職以上學校學生就學貸款統計",
+    title:"100-110學年度高中職以上學校學生就學貸款統計",
     updatemenus:[
         {
             y:1.2,
@@ -95,7 +95,7 @@ let layout1 = {
                 {
                     method:"restyle",
                     args:["visible",[true,true,true,true]],
-                    label:"Display All"
+                    label:"全部"
                 },
                 {
                     method:"restyle",
